@@ -16,7 +16,7 @@ See the application in action. The video below demonstrates the full pipeline: f
 [![Watch the Demo](https://img.shields.io/badge/▶_Watch_Live_Demo-Click_Here-red?style=for-the-badge&logo=youtube)](https://github.com/Gourab79/BioNeMo-Validation-Screener/blob/main/Screen%20Recording%202025-12-02%20221304.mp4)
 
 *(Click the badge above to play the video)*
-
+![Screenshot description](https://github.com/Gourab79/BioNeMo-Validation-Screener/raw/main/Screenshot%202025-12-08%20190339.png)
 ---
 
 ## ✨ Key Features
@@ -80,3 +80,4 @@ Paste into Dashboard: Paste the entire copied block into the "Target Protein Str
 
 
 The application now has the necessary 3D coordinates to begin the DiffDock simulation.
+
